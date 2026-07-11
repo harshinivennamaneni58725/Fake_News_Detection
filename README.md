@@ -126,13 +126,13 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/53bc47b8-f953-40c9-a07d-ba09aae958d6" />
+
 
 ### Prediction Result
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/83f27ad1-693b-4e08-9ed6-e0040e5cfe70" />
 
----
 
 ## 📈 Future Improvements
 
